@@ -1,4 +1,4 @@
-# robot_goalie
+# Robot Goalie
 
 ## How to run the the Baxter Goalie program
 
